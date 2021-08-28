@@ -1,5 +1,3 @@
-import "./styles.css";
-
 console.clear();
 
 const grid = document.querySelector(".grid");
